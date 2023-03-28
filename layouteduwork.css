@@ -1,0 +1,91 @@
+body {
+  margin: 0;
+  background-image: url("https://eduwork.id/assets/bg-hero.png");
+}
+
+.container {
+  display: flex;
+  padding: 20px;
+  font-family: "Poppins";
+}
+
+ul {
+  display: flex;
+  margin: auto;
+}
+
+ul button {
+  margin-left: 20px;
+}
+
+li {
+  margin-left: 30px;
+  list-style: none;
+
+  align-items: center;
+}
+
+.row {
+  margin: auto;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.col-3 {
+  margin-left: 50px;
+}
+
+.col-3 button {
+  border-radius: 10px;
+  margin-left: 20px;
+  border-top-right-radius: 10px;
+}
+
+.main-content {
+  display: flex;
+  margin: auto;
+  justify-content: center;
+  width: 90%;
+  margin-top: 70px;
+}
+.col-5 {
+  width: 39.7%;
+  padding-left: 71px;
+}
+
+.flex-col p {
+  font-family: "Poppins";
+}
+
+h1 {
+  font-family: "Poppins";
+}
+
+p {
+  font-family: "Poppins";
+}
+
+.tombol {
+  display: flex;
+}
+
+.tombol button {
+  margin-left: 10px;
+  border-radius: 7px;
+  padding: 10px 40px 10px 40px;
+}
+
+.gratis p {
+  position: absolute;
+  margin-top: -20px;
+  margin-left: 100px;
+  background-color: rgb(255, 0, 0);
+  padding: 5px;
+  font-size: 10px;
+  padding: 5px 10px 5px 10px;
+  border-radius: 10px;
+}
+
+h4 {
+  font-size: 17px;
+}
